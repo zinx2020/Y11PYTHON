@@ -1,1 +1,3 @@
-
+def merrychristmas():
+   print("merrychristmastoall")
+merrychristmas()
