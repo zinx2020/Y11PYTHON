@@ -1,3 +1,10 @@
 def merrychristmas():
    print("merrychristmastoall")
 merrychristmas()
+
+
+older = 21
+if older >= 18:
+   print ("Adult")
+else:
+   print ("Child") 
